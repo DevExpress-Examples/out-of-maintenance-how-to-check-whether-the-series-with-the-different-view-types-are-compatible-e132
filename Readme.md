@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CheckCompatibility/Form1.cs) (VB: [Form1.vb](./VB/CheckCompatibility/Form1.vb))
+* [Program.cs](./CS/CheckCompatibility/Program.cs) (VB: [Program.vb](./VB/CheckCompatibility/Program.vb))
+<!-- default file list end -->
 # How to check whether the series with the different view types are compatible
 
 
